@@ -1,0 +1,28 @@
+table, tr, td {
+    border: 1px solid black;
+}
+
+.satu{
+    background-color: black;
+    color: white;
+}
+
+.dua{
+    background-color: green;
+    color: white;
+}
+
+.tiga{
+    background-color: green;
+    color: white;
+}
+
+.empat{
+    background-color: green;
+    color: white;
+}
+
+.lima{
+    background-color: red;
+    color: white;
+}
